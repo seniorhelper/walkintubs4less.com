@@ -17,6 +17,8 @@
       var hit = Array.prototype.some.call(sel.options, function (o) { if (o.value === tub) { o.selected = true; return true; } return false; });
       if (!hit) { var n = f.querySelector("#f-notes"); if (n && !n.value) { n.value = "Model: " + tub; } }
     }
+    var note = (q.get("note") || "").slice(0, 300);
+    if (note) { var nn = f.querySelector("#f-notes"); if (nn) { nn.value = (nn.value ? nn.value + " | " : "") + note; } }
   });
   document.addEventListener("submit", function (e) {
     var f = e.target;
