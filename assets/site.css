@@ -2,7 +2,7 @@
 *{box-sizing:border-box}
 html{-webkit-text-size-adjust:100%}
 body{margin:0;font:400 18px/1.6 "Atkinson Hyperlegible",system-ui,-apple-system,"Segoe UI",sans-serif;color:var(--ink);background:var(--white)}
-h1,h2,h3,.flogo{font-family:Fraunces,Georgia,serif;line-height:1.15;color:var(--ink);margin:0 0 .5em}
+h1,h2,h3,.flogo{font-family:Inter,system-ui,sans-serif;line-height:1.15;color:var(--ink);margin:0 0 .5em}
 h1{font-size:clamp(2rem,4.6vw,3.3rem);letter-spacing:-.01em}
 h2{font-size:clamp(1.5rem,2.8vw,2.1rem)}
 h3,.h3{font-size:1.25rem}
@@ -18,7 +18,7 @@ img{max-width:100%;height:auto}
 /* header */
 .top{background:#fff;border-bottom:1px solid var(--line);position:sticky;top:0;z-index:20}
 .bar{display:flex;align-items:center;gap:20px;min-height:72px}
-.logo{display:flex;align-items:center;gap:10px;text-decoration:none;color:var(--ink);font:700 1.25rem/1 Fraunces,Georgia,serif;white-space:nowrap}
+.logo{display:flex;align-items:center;gap:10px;text-decoration:none;color:var(--ink);font:700 1.25rem/1 Inter,system-ui,sans-serif;white-space:nowrap}
 .logo b{color:var(--teal)}
 .nav{display:flex;gap:4px;list-style:none;margin:0 0 0 auto;padding:0}
 .nav a{display:block;padding:10px 12px;border-radius:8px;text-decoration:none;color:var(--ink);font-weight:700;font-size:1rem}
@@ -73,7 +73,7 @@ img{max-width:100%;height:auto}
 .brandgrid.wide{grid-template-columns:repeat(auto-fit,minmax(260px,1fr))}
 .brandgrid a{display:block;height:100%;background:#fff;border:1px solid var(--line);border-radius:var(--r);padding:18px;text-decoration:none;color:var(--ink)}
 .brandgrid a:hover{border-color:var(--teal);box-shadow:0 4px 14px rgba(15,92,99,.12)}
-.brandgrid b{display:block;font:700 1.2rem Fraunces,Georgia,serif;color:var(--teal-d);margin-bottom:6px}
+.brandgrid b{display:block;font:700 1.2rem Inter,system-ui,sans-serif;color:var(--teal-d);margin-bottom:6px}
 .brandgrid span{font-size:.95rem;color:var(--muted)}
 .tubs{list-style:none;padding:0;margin:0 0 1em;display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:14px}
 .tub a{display:flex;flex-direction:column;gap:4px;padding:18px;border-radius:var(--r);border:1px solid var(--line);background:#fff;text-decoration:none;color:var(--ink);height:100%}
@@ -169,3 +169,5 @@ img{max-width:100%;height:auto}
  .btn-call{padding:8px 12px}
  .mnav summary{padding:0 12px}
 }
+
+.hero-cta{display:flex;flex-wrap:wrap;gap:10px;margin:14px 0 18px}.hero-cta .btn{margin-top:0}

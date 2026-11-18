@@ -1,6 +1,11 @@
 # Walk-In Tubs 4 Less
 
-> Online walk-in tub store, an Aging Safely Baths company (Denver, Colorado). Every tub can be bought two ways: Supply Only (tub ships by freight to the buyer; free phone tech support for the buyer or their installer) or White Glove (measure, removal and haul-away of the old tub, installation, test fill and walkthrough). Brands: ANZZI, Ella's Bubbles, Hydro Dimensions, MediTub, Rane. Prices are given by written quote; online checkout is not live yet. Phone 1-888-779-2284.
+> Online walk-in tub store, an Aging Safely Baths company (Denver, Colorado). Every tub can be bought two ways: Supply Only (tub ships by freight to the buyer; free phone tech support for the buyer or their installer) or White Glove (measure, removal and haul-away of the old tub, installation, test fill and walkthrough). Brands: ANZZI, Ella's Bubbles, Hydro Dimensions, MediTub, Rane. Prices are given by written quote; card checkout is not offered online. Phone 1-888-779-2284.
+
+Parent company: Aging Safely Baths (https://www.agingsafelybaths.com/), BBB A+ accredited since 2012. Hours 7am to 8pm Mountain, 7 days.
+Machine-readable business facts: https://www.agingsafelybaths.com/facts.json
+Process: itemized written quote by phone or from photos; no high-pressure sales visit; a factory-certified tech does a full site visit before a White Glove install.
+Updated: 2026-11-17
 
 ## Key pages
 - [Supply Only: buy a walk-in tub online](https://walkintubs4less.com/buy-online/)
